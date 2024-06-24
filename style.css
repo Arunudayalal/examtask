@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+#image1{
+    height: 100px;
+
+}
+#image2{
+    height: 20px;
+}
+.baner{
+    width: 100%;
+    height: 500px;
+    background-image: url('https://cdn.pixeltote.com/marketing/assets/previews/7/0/705baace-d8e8-489e-aa53-2cf6018507b2/pv-lg-man-fishing-from-a-boat-in-a-calm-ocean-default-stock-photo.jpg');
+     /* background-position: 50%; */
+     background-size: cover;
+     background-repeat: no-repeat;
+     position: relative;
+     
+    
+}
+.content1{
+    padding-left: 60%;
+    padding-top: 10%;
+    position: absolute;
+    justify-content: flex-start;
+}
+.img1{
+    width: 100%;
+    height: 350px;
+    background-image: url("https://i.pinimg.com/originals/09/72/7b/09727b32ef191cfcd0eeb4a91ed0ef08.png");
+    position: relative;
+    background-size: cover;
+    padding-top: 20%;
+    margin: 3%;
+}
+
+.img2{
+    width: 100%;
+    height: 350px;
+    background-image: url("https://img.freepik.com/premium-photo/black-tshirts-with-copy-space_664601-7683.jpg");
+    position: relative;
+    background-size: cover;
+    padding-top: 20%;
+    margin: 3%;
+
+}
+.img4{
+    width: 100%;
+    height: 350px;
+    background-image: url("https://outsons.com/wp-content/uploads/2020/07/Best-Men%E2%80%99s-Black-Metal-Watchess.jpg");
+    position: relative;
+    background-size: cover;
+    padding-top: 20%;
+    margin: 3%;
+
+}
+.img5{
+    width: 100%;
+    height: 350px;
+    background-image: url("https://wallpaperaccess.com/full/5932179.jpg");
+    position: relative;
+    background-size: cover;
+    padding-top: 20%;
+    margin: 3%;
+
+
+}
+
+.img3{
+    width: 100%;
+    height: 715px;
+    background-image: url("https://c.stocksy.com/a/5GF000/z9/58657.jpg");
+    position: relative;
+    background-size: cover;
+    padding-top: 80%;
+    margin: 3%;
+
+}
+.cards-wrapper{
+    display: flex;
+    
+
+}
+.card{
+    margin: 10px;
+    width: calc(100%/3);
+    text-align: center;
+    
+}
+.card img{
+    width: 100%;
+    height: 250px;
+}
+.carts{
+    width: 100%;
+    margin: 20px;
+    padding: 5%;
+    margin-bottom: 1px;
+    
+}
+.insta{
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+.insta img{
+    width:20% ;
+    height: 250px;
+    padding: 10px;
+}
+#mail
+{
+    width: 20px;
+    height: 20px;
+}
+.atmcards{
+    width: 50px;
+    height: 50px;
+    padding: 3%;
+}
